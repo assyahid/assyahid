@@ -17,7 +17,6 @@
 [<img align="left" alt="Assyahid | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
 [<img align="left" alt="Assyahid | Telegram" height="22px" src="./SocialLogo/Telegram.png" />][telegram]
 [<img align="left" alt="Assyahid | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter]
-[<img align="left" alt="Assyahid | Skype" height="22px" src="./SocialLogo/Skype.png" />][skype]
 [<img align="left" alt="Assyahid | Facebook" height="22px" src="./SocialLogo/Facebook.png" />][facebook]
 [<img align="left" alt="Assyahid | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
 
