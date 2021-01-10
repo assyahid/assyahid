@@ -130,7 +130,7 @@ These are my latest posts on [Dev.to](https://dev.to/assyahid):
 [stackoverflow]: https://stackoverflow.com/users/14781065/assyahid-hasan-albana
 [dev]: https://dev.to/assyahid
 [gmail]: mailto:assyahid98@gmail.com
-[whatsapp]: https://wa.me/081273864008
+[whatsapp]: https://wa.me/6281273864008
 [telegram]: https://telegram.me/TheSabesan
 [twitter]: https://twitter.com/TheSabesan
 [facebook]: https://www.facebook.com/assyahidhasan
