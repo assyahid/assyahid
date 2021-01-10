@@ -1,10 +1,10 @@
 ### Hi there, I'm Assyahid Hasan Albana - This My Profil [Assyahid][website] <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 
-## I'm a Student, Undergraduate, Developer, and Physics Teacher!
+## I'm a Student, Undergraduate, Developer, and Network engineering
 
-- 🔭 I’m currently working on a my final year project!
-- 🌱 I’m currently learning Fullstack and Machine Learning
-- 👯 I’m looking to collaborate with other content creators
+- 🔭 I'm currently working on a my final year project!
+- 🌱 I'm currently learning Fullstack and infrastructure Netwok
+- 👯 I'm looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play chess and listen music.
 
@@ -12,10 +12,8 @@
 
 [<img align="left" alt="Assyahid" height="22px" src="./SocialLogo/Web.png" />][website]
 [<img align="left" alt="Assyahid | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
-[<img align="left" alt="Assyahid | Medium" height="22px" src="./SocialLogo/Medium.png" />][medium]
 [<img align="left" alt="Assyahid | Stackoverflow" height="22px" src="./SocialLogo/StackOverflow.png" />][stackoverflow]
 [<img align="left" alt="Assyahid | Dev" height="22px" src="./SocialLogo/Dev.png" />][dev]
-[<img align="left" alt="Assyahid | Quora" height="22px" src="./SocialLogo/Quora.png" />][quora]
 [<img align="left" alt="Assyahid | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
 [<img align="left" alt="Assyahid | Telegram" height="22px" src="./SocialLogo/Telegram.png" />][telegram]
 [<img align="left" alt="Assyahid | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter]
@@ -112,18 +110,15 @@
 
 ## 📝 Latest Blog Posts
 
-These are my latest posts on [Medium](https://medium.com/@sabesan96) and [Dev.to](https://dev.to/thesabesan):
+These are my latest posts on [Dev.to](https://dev.to/assyahid):
 
-### Medium
-
-![Sabesan96's Medium Post](https://github-readme-medium-card.vercel.app/getMediumBlogs?username=sabesan96&limit=6&theme=tokyonight)
 
 ### Dev Community
 
 <!-- DEVTO:START -->
-- [How to Handle ES6 modules in Node.Js](https://dev.to/thesabesan/how-to-handle-es6-modules-in-node-js-hdn)
-- [Embed Dev.to as a blog on your React Website](https://dev.to/thesabesan/embed-dev-to-as-a-blog-on-your-react-website-3l8c)
-- [Beautify Your GitHub Profile README](https://dev.to/thesabesan/beautify-your-github-profile-readme-10cf)
+- [Microservices Design - API Gateway Pattern](https://dev.to/assyahid/microservices-design-api-gateway-pattern-2dep)
+- [Redis, Kafka or RabbitMQ: Which MicroServices Message Broker To Choose?](https://dev.to/assyahid/redis-kafka-or-rabbitmq-which-microservices-message-broker-to-choose-55k8)
+- [2020-2021 Technology Outlook: Why Python Is Here to Stay](https://dev.to/assyahid/2020-2021-technology-outlook-why-python-is-here-to-stay-eb)
 <!-- DEVTO:END -->
 
 ---
@@ -132,14 +127,12 @@ These are my latest posts on [Medium](https://medium.com/@sabesan96) and [Dev.to
 [website]: https://Assyahid.my.id
 [linkedin]: https://www.linkedin.com/in/Assyahid
 [medium]: https://medium.com/@sabesan96
-[stackoverflow]: https://stackoverflow.com/users/8629258/sathananthan-sabesan
+[stackoverflow]: https://stackoverflow.com/users/14781065/assyahid-hasan-albana
 [dev]: https://dev.to/assyahid
 [gmail]: mailto:assyahid98@gmail.com
-[quora]: https://www.quora.com/profile/Sathananthan-Sabesan
-[whatsapp]: https://wa.me/94770711017
+[whatsapp]: https://wa.me/081273864008
 [telegram]: https://telegram.me/TheSabesan
 [twitter]: https://twitter.com/TheSabesan
-[skype]: https://join.skype.com/invite/hGgVYFnMnx1x
 [facebook]: https://www.facebook.com/assyahidhasan
 [instagram]: https://www.instagram.com/assyahidhasan
 
