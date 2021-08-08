@@ -125,13 +125,13 @@ These are my latest posts on [Dev.to](https://dev.to/assyahid):
 
 [website]: https://Assyahid.my.id
 [linkedin]: https://www.linkedin.com/in/Assyahid
-[medium]: https://medium.com/@sabesan96
+[medium]: https://medium.com/@assyahid
 [stackoverflow]: https://stackoverflow.com/users/14781065/assyahid-hasan-albana
 [dev]: https://dev.to/assyahid
 [gmail]: mailto:assyahid98@gmail.com
-[whatsapp]: https://wa.me/6281273864008
-[telegram]: https://telegram.me/TheSabesan
-[twitter]: https://twitter.com/TheSabesan
+[whatsapp]: https://wa.me/6281373207326
+[telegram]: https://telegram.me/assyahidhasan
+[twitter]: https://twitter.com/assyahidhasan
 [facebook]: https://www.facebook.com/assyahidhasan
 [instagram]: https://www.instagram.com/assyahidhasan
 
