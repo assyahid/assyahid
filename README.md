@@ -96,13 +96,14 @@ assyahid@github:~$ echo $MOTTO
 
 <div align="center">
 
+<img src="https://streak-stats.demolab.com?user=assyahid&theme=tokyonight&hide_border=true&background=0d1117&ring=36bcf7&fire=36bcf7&currStreakLabel=36bcf7&sideLabels=c9d1d9&dates=8b949e&border_radius=12" alt="streak" />
+
 <!-- Kartu dibuat otomatis oleh workflow Profile Automation -->
 <img src="https://raw.githubusercontent.com/assyahid/assyahid/output/stats.svg" width="49%" alt="GitHub stats" />
 <img src="https://raw.githubusercontent.com/assyahid/assyahid/output/languages.svg" width="49%" alt="Top languages" />
 
 <img src="https://raw.githubusercontent.com/assyahid/assyahid/output/activity.svg" width="100%" alt="Activity" />
 
-<img src="https://streak-stats.demolab.com?user=assyahid&theme=tokyonight&hide_border=true&background=0d1117&ring=36bcf7&fire=36bcf7&currStreakLabel=36bcf7&sideLabels=c9d1d9&dates=8b949e&border_radius=12" alt="streak" />
 
 </div>
 
