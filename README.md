@@ -112,9 +112,9 @@ assyahid@github:~$ echo $MOTTO
 
 <!-- Diperbarui otomatis oleh workflow blog-post -->
 <!-- BLOG-POST-LIST:START -->
-- 🧩 [Microservices Design - API Gateway Pattern](https://dev.to/assyahid/microservices-design-api-gateway-pattern-2dep)
-- 📨 [Redis, Kafka or RabbitMQ: Which MicroServices Message Broker To Choose?](https://dev.to/assyahid/redis-kafka-or-rabbitmq-which-microservices-message-broker-to-choose-55k8)
-- 🐍 [2020-2021 Technology Outlook: Why Python Is Here to Stay](https://dev.to/assyahid/2020-2021-technology-outlook-why-python-is-here-to-stay-eb)
+- [Microservices Design - API Gateway Pattern](https://dev.to/assyahid/microservices-design-api-gateway-pattern-2dep)
+- [Redis, Kafka or RabbitMQ: Which MicroServices Message Broker To Choose?](https://dev.to/assyahid/redis-kafka-or-rabbitmq-which-microservices-message-broker-to-choose-55k8)
+- [2020-2021 Technology Outlook: Why Python Is Here to Stay](https://dev.to/assyahid/2020-2021-technology-outlook-why-python-is-here-to-stay-eb)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right">
