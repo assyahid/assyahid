@@ -96,12 +96,13 @@ assyahid@github:~$ echo $MOTTO
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=assyahid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36bcf7&icon_color=36bcf7&text_color=c9d1d9&rank_icon=github&border_radius=12" height="170" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=assyahid&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36bcf7&text_color=c9d1d9&langs_count=6&border_radius=12" height="170" alt="top langs" />
+<!-- Kartu dibuat otomatis oleh workflow Profile Automation -->
+<img src="https://raw.githubusercontent.com/assyahid/assyahid/output/stats.svg" width="49%" alt="GitHub stats" />
+<img src="https://raw.githubusercontent.com/assyahid/assyahid/output/languages.svg" width="49%" alt="Top languages" />
+
+<img src="https://raw.githubusercontent.com/assyahid/assyahid/output/activity.svg" width="100%" alt="Activity" />
 
 <img src="https://streak-stats.demolab.com?user=assyahid&theme=tokyonight&hide_border=true&background=0d1117&ring=36bcf7&fire=36bcf7&currStreakLabel=36bcf7&sideLabels=c9d1d9&dates=8b949e&border_radius=12" alt="streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=assyahid&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=36bcf7&line=36bcf7&point=ffffff&area=true&area_color=203a43&radius=12" width="100%" alt="activity" />
 
 </div>
 
