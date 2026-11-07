@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1418"/><stop offset="1" stop-color="#1d3a47"/></linearGradient>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#36bcf7" stroke-opacity=".05"/></pattern>
+<linearGradient id="beam" x1="0" x2="1"><stop offset="0" stop-color="#36bcf7" stop-opacity="0"/><stop offset=".5" stop-color="#36bcf7"/><stop offset="1" stop-color="#36bcf7" stop-opacity="0"/></linearGradient>
+<style>
+.t{font:700 15px Consolas,'Courier New',monospace;fill:#36bcf7;letter-spacing:3px}
+.l{font:400 14px 'Segoe UI','Helvetica Neue',Arial,sans-serif;fill:#6f97a8}
+.v{font:700 22px 'Segoe UI','Helvetica Neue',Arial,sans-serif;fill:#c9eefe}
+.s{font:400 12px 'Segoe UI','Helvetica Neue',Arial,sans-serif;fill:#6f97a8}
+.f{opacity:0;animation:in .6s ease-out forwards}
+@keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+</style>
+<linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#36bcf7" stop-opacity=".45"/><stop offset="1" stop-color="#36bcf7" stop-opacity="0"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="reveal"><rect x="0" y="0" width="0" height="300"><animate attributeName="width" from="0" to="1000" dur="2.2s" begin=".2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".3 .7 .3 1"/></rect></clipPath>
+<clipPath id="card"><rect width="1000" height="300" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#card)">
+<rect width="1000" height="300" fill="url(#bg)"/><rect width="1000" height="300" fill="url(#grid)"/>
+<rect y="297" width="160" height="3" fill="url(#beam)"><animate attributeName="x" values="-160;1000" dur="4s" repeatCount="indefinite"/></rect>
+<text x="50" y="38" class="t">⌁ ACTIVITY · 31 HARI TERAKHIR</text>
+<g class="f" style="animation-delay:0.2s"><text x="970" y="34" class="v" text-anchor="end" style="font-size:20px">122</text><text x="970" y="52" class="s" text-anchor="end">total</text></g>
+<g class="f" style="animation-delay:0.3s"><text x="820" y="34" class="v" text-anchor="end" style="font-size:20px">17</text><text x="820" y="52" class="s" text-anchor="end">hari aktif</text></g>
+<g class="f" style="animation-delay:0.4s"><text x="670" y="34" class="v" text-anchor="end" style="font-size:20px">20</text><text x="670" y="52" class="s" text-anchor="end">terbanyak/hari</text></g>
+<line x1="50" x2="970" y1="70.0" y2="70.0" stroke="#36bcf7" stroke-opacity=".08"/>
+<text x="40" y="74.0" class="s" text-anchor="end">20</text>
+<line x1="50" x2="970" y1="115.0" y2="115.0" stroke="#36bcf7" stroke-opacity=".08"/>
+<text x="40" y="119.0" class="s" text-anchor="end">15</text>
+<line x1="50" x2="970" y1="160.0" y2="160.0" stroke="#36bcf7" stroke-opacity=".08"/>
+<text x="40" y="164.0" class="s" text-anchor="end">10</text>
+<line x1="50" x2="970" y1="205.0" y2="205.0" stroke="#36bcf7" stroke-opacity=".08"/>
+<text x="40" y="209.0" class="s" text-anchor="end">5</text>
+<line x1="50" x2="970" y1="250.0" y2="250.0" stroke="#36bcf7" stroke-opacity=".08"/>
+<text x="40" y="254.0" class="s" text-anchor="end">0</text>
+<g clip-path="url(#reveal)"><path d="M50.0,250.0 C65.3,250.0 65.3,250.0 80.7,250.0 C96.0,250.0 96.0,250.0 111.3,250.0 C126.7,250.0 126.7,250.0 142.0,250.0 C157.3,250.0 157.3,250.0 172.7,250.0 C188.0,250.0 188.0,250.0 203.3,250.0 C218.7,250.0 218.7,250.0 234.0,250.0 C249.3,250.0 249.3,250.0 264.7,250.0 C280.0,250.0 280.0,250.0 295.3,250.0 C310.7,250.0 310.7,250.0 326.0,250.0 C341.3,250.0 341.3,250.0 356.7,250.0 C372.0,250.0 372.0,250.0 387.3,250.0 C402.7,250.0 402.7,250.0 418.0,250.0 C433.3,250.0 433.3,250.0 448.7,250.0 C464.0,250.0 464.0,178.0 479.3,178.0 C494.7,178.0 494.7,205.0 510.0,205.0 C525.3,205.0 525.3,160.0 540.7,160.0 C556.0,160.0 556.0,196.0 571.3,196.0 C586.7,196.0 586.7,205.0 602.0,205.0 C617.3,205.0 617.3,223.0 632.7,223.0 C648.0,223.0 648.0,241.0 663.3,241.0 C678.7,241.0 678.7,187.0 694.0,187.0 C709.3,187.0 709.3,205.0 724.7,205.0 C740.0,205.0 740.0,178.0 755.3,178.0 C770.7,178.0 770.7,142.0 786.0,142.0 C801.3,142.0 801.3,178.0 816.7,178.0 C832.0,178.0 832.0,70.0 847.3,70.0 C862.7,70.0 862.7,160.0 878.0,160.0 C893.3,160.0 893.3,160.0 908.7,160.0 C924.0,160.0 924.0,232.0 939.3,232.0 C954.7,232.0 954.7,232.0 970.0,232.0 L970.0,250 L50.0,250 Z" fill="url(#area)"/><path d="M50.0,250.0 C65.3,250.0 65.3,250.0 80.7,250.0 C96.0,250.0 96.0,250.0 111.3,250.0 C126.7,250.0 126.7,250.0 142.0,250.0 C157.3,250.0 157.3,250.0 172.7,250.0 C188.0,250.0 188.0,250.0 203.3,250.0 C218.7,250.0 218.7,250.0 234.0,250.0 C249.3,250.0 249.3,250.0 264.7,250.0 C280.0,250.0 280.0,250.0 295.3,250.0 C310.7,250.0 310.7,250.0 326.0,250.0 C341.3,250.0 341.3,250.0 356.7,250.0 C372.0,250.0 372.0,250.0 387.3,250.0 C402.7,250.0 402.7,250.0 418.0,250.0 C433.3,250.0 433.3,250.0 448.7,250.0 C464.0,250.0 464.0,178.0 479.3,178.0 C494.7,178.0 494.7,205.0 510.0,205.0 C525.3,205.0 525.3,160.0 540.7,160.0 C556.0,160.0 556.0,196.0 571.3,196.0 C586.7,196.0 586.7,205.0 602.0,205.0 C617.3,205.0 617.3,223.0 632.7,223.0 C648.0,223.0 648.0,241.0 663.3,241.0 C678.7,241.0 678.7,187.0 694.0,187.0 C709.3,187.0 709.3,205.0 724.7,205.0 C740.0,205.0 740.0,178.0 755.3,178.0 C770.7,178.0 770.7,142.0 786.0,142.0 C801.3,142.0 801.3,178.0 816.7,178.0 C832.0,178.0 832.0,70.0 847.3,70.0 C862.7,70.0 862.7,160.0 878.0,160.0 C893.3,160.0 893.3,160.0 908.7,160.0 C924.0,160.0 924.0,232.0 939.3,232.0 C954.7,232.0 954.7,232.0 970.0,232.0" fill="none" stroke="#36bcf7" stroke-width="2.5" filter="url(#glow)"/>
+<circle cx="479.3" cy="178.0" r="3.5" fill="#fff" stroke="#36bcf7" stroke-width="2"/>
+<circle cx="510.0" cy="205.0" r="3.5" fill="#fff" stroke="#36bcf7" stroke-width="2"/>
+<circle cx="540.7" cy="160.0" r="3.5" fill="#fff" stroke="#36bcf7" stroke-width="2"/>
+<circle cx="571.3" cy="196.0" r="3.5" fill="#fff" stroke="#36bcf7" stroke-width="2"/>
+<circle cx="602.0" cy="205.0" r="3.5" fill="#fff" stroke="#36bcf7" stroke-width="2"/>
+<circle cx="632.7" cy="223.0" r="3.5" fill="#fff" stroke="#36bcf7" stroke-width="2"/>
+<circle cx="663.3" cy="241.0" r="3.5" fill="#fff" stroke="#36bcf7" stroke-width="2"/>
+<circle cx="694.0" cy="187.0" r="3.5" fill="#fff" stroke="#36bcf7" stroke-width="2"/>
+<circle cx="724.7" cy="205.0" r="3.5" fill="#fff" stroke="#36bcf7" stroke-width="2"/>
+<circle cx="755.3" cy="178.0" r="3.5" fill="#fff" stroke="#36bcf7" stroke-width="2"/>
+<circle cx="786.0" cy="142.0" r="3.5" fill="#fff" stroke="#36bcf7" stroke-width="2"/>
+<circle cx="816.7" cy="178.0" r="3.5" fill="#fff" stroke="#36bcf7" stroke-width="2"/>
+<circle cx="847.3" cy="70.0" r="3.5" fill="#fff" stroke="#36bcf7" stroke-width="2"/>
+<circle cx="878.0" cy="160.0" r="3.5" fill="#fff" stroke="#36bcf7" stroke-width="2"/>
+<circle cx="908.7" cy="160.0" r="3.5" fill="#fff" stroke="#36bcf7" stroke-width="2"/>
+<circle cx="939.3" cy="232.0" r="3.5" fill="#fff" stroke="#36bcf7" stroke-width="2"/>
+<circle cx="970.0" cy="232.0" r="3.5" fill="#fff" stroke="#36bcf7" stroke-width="2"/>
+</g>
+<circle cx="970.0" cy="232.0" r="5" fill="#36bcf7"><animate attributeName="r" values="5;14;5" dur="2s" begin="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0;.8" dur="2s" begin="2.4s" repeatCount="indefinite"/></circle>
+<text x="50.0" y="274" class="s" text-anchor="middle">08/10</text>
+<text x="203.3" y="274" class="s" text-anchor="middle">13/10</text>
+<text x="356.7" y="274" class="s" text-anchor="middle">18/10</text>
+<text x="510.0" y="274" class="s" text-anchor="middle">23/10</text>
+<text x="663.3" y="274" class="s" text-anchor="middle">28/10</text>
+<text x="816.7" y="274" class="s" text-anchor="middle">02/11</text>
+<text x="970.0" y="274" class="s" text-anchor="middle">07/11</text>
+</g>
+<rect x=".5" y=".5" width="999" height="299" rx="16" fill="none" stroke="#36bcf7" stroke-opacity=".3"/>
+</svg>

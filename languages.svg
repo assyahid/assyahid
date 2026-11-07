@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="260" viewBox="0 0 500 260">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1418"/><stop offset="1" stop-color="#1d3a47"/></linearGradient>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#36bcf7" stroke-opacity=".05"/></pattern>
+<linearGradient id="beam" x1="0" x2="1"><stop offset="0" stop-color="#36bcf7" stop-opacity="0"/><stop offset=".5" stop-color="#36bcf7"/><stop offset="1" stop-color="#36bcf7" stop-opacity="0"/></linearGradient>
+<style>
+.t{font:700 15px Consolas,'Courier New',monospace;fill:#36bcf7;letter-spacing:3px}
+.l{font:400 14px 'Segoe UI','Helvetica Neue',Arial,sans-serif;fill:#6f97a8}
+.v{font:700 22px 'Segoe UI','Helvetica Neue',Arial,sans-serif;fill:#c9eefe}
+.s{font:400 12px 'Segoe UI','Helvetica Neue',Arial,sans-serif;fill:#6f97a8}
+.f{opacity:0;animation:in .6s ease-out forwards}
+@keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+</style>
+
+<clipPath id="card"><rect width="500" height="260" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#card)">
+<rect width="500" height="260" fill="url(#bg)"/><rect width="500" height="260" fill="url(#grid)"/>
+<rect y="257" width="160" height="3" fill="url(#beam)"><animate attributeName="x" values="-160;500" dur="4s" repeatCount="indefinite"/></rect>
+<text x="28" y="38" class="t">⌁ TOP LANGUAGES</text>
+<clipPath id="bar"><rect x="28" y="58" width="444" height="12" rx="6"/></clipPath><g clip-path="url(#bar)">
+<rect x="28.0" y="58" width="0" height="12" fill="#e34c26"><animate attributeName="width" from="0" to="239.6" dur="1s" begin=".3s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/></rect>
+<rect x="267.6" y="58" width="0" height="12" fill="#f1e05a"><animate attributeName="width" from="0" to="87.8" dur="1s" begin=".3s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/></rect>
+<rect x="355.4" y="58" width="0" height="12" fill="#4F5D95"><animate attributeName="width" from="0" to="72.8" dur="1s" begin=".3s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/></rect>
+<rect x="428.2" y="58" width="0" height="12" fill="#663399"><animate attributeName="width" from="0" to="22.4" dur="1s" begin=".3s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/></rect>
+<rect x="450.6" y="58" width="0" height="12" fill="#f7523f"><animate attributeName="width" from="0" to="15.8" dur="1s" begin=".3s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/></rect>
+<rect x="466.4" y="58" width="0" height="12" fill="#c6538c"><animate attributeName="width" from="0" to="5.6" dur="1s" begin=".3s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/></rect>
+</g>
+<g class="f" style="animation-delay:0.40s"><circle cx="34" cy="103" r="6" fill="#e34c26"/><text x="48" y="108" class="l" style="fill:#c9eefe">HTML</text><text x="238" y="108" class="s" text-anchor="end">54.0%</text><rect x="48" y="117" width="190" height="3" rx="1.5" fill="#36bcf7" fill-opacity=".1"/><rect x="48" y="117" width="0" height="3" rx="1.5" fill="#e34c26"><animate attributeName="width" from="0" to="102.5" dur="1s" begin="0.50s" fill="freeze"/></rect></g>
+<g class="f" style="animation-delay:0.50s"><circle cx="264" cy="103" r="6" fill="#f1e05a"/><text x="278" y="108" class="l" style="fill:#c9eefe">JavaScript</text><text x="468" y="108" class="s" text-anchor="end">19.8%</text><rect x="278" y="117" width="190" height="3" rx="1.5" fill="#36bcf7" fill-opacity=".1"/><rect x="278" y="117" width="0" height="3" rx="1.5" fill="#f1e05a"><animate attributeName="width" from="0" to="37.6" dur="1s" begin="0.60s" fill="freeze"/></rect></g>
+<g class="f" style="animation-delay:0.60s"><circle cx="34" cy="149" r="6" fill="#4F5D95"/><text x="48" y="154" class="l" style="fill:#c9eefe">PHP</text><text x="238" y="154" class="s" text-anchor="end">16.4%</text><rect x="48" y="163" width="190" height="3" rx="1.5" fill="#36bcf7" fill-opacity=".1"/><rect x="48" y="163" width="0" height="3" rx="1.5" fill="#4F5D95"><animate attributeName="width" from="0" to="31.2" dur="1s" begin="0.70s" fill="freeze"/></rect></g>
+<g class="f" style="animation-delay:0.70s"><circle cx="264" cy="149" r="6" fill="#663399"/><text x="278" y="154" class="l" style="fill:#c9eefe">CSS</text><text x="468" y="154" class="s" text-anchor="end">5.0%</text><rect x="278" y="163" width="190" height="3" rx="1.5" fill="#36bcf7" fill-opacity=".1"/><rect x="278" y="163" width="0" height="3" rx="1.5" fill="#663399"><animate attributeName="width" from="0" to="9.6" dur="1s" begin="0.80s" fill="freeze"/></rect></g>
+<g class="f" style="animation-delay:0.80s"><circle cx="34" cy="195" r="6" fill="#f7523f"/><text x="48" y="200" class="l" style="fill:#c9eefe">Blade</text><text x="238" y="200" class="s" text-anchor="end">3.6%</text><rect x="48" y="209" width="190" height="3" rx="1.5" fill="#36bcf7" fill-opacity=".1"/><rect x="48" y="209" width="0" height="3" rx="1.5" fill="#f7523f"><animate attributeName="width" from="0" to="6.8" dur="1s" begin="0.90s" fill="freeze"/></rect></g>
+<g class="f" style="animation-delay:0.90s"><circle cx="264" cy="195" r="6" fill="#c6538c"/><text x="278" y="200" class="l" style="fill:#c9eefe">SCSS</text><text x="468" y="200" class="s" text-anchor="end">1.3%</text><rect x="278" y="209" width="190" height="3" rx="1.5" fill="#36bcf7" fill-opacity=".1"/><rect x="278" y="209" width="0" height="3" rx="1.5" fill="#c6538c"><animate attributeName="width" from="0" to="2.4" dur="1s" begin="1.00s" fill="freeze"/></rect></g>
+</g>
+<rect x=".5" y=".5" width="499" height="259" rx="16" fill="none" stroke="#36bcf7" stroke-opacity=".3"/>
+</svg>
