@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="260" viewBox="0 0 500 260">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1418"/><stop offset="1" stop-color="#1d3a47"/></linearGradient>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#36bcf7" stroke-opacity=".05"/></pattern>
+<linearGradient id="beam" x1="0" x2="1"><stop offset="0" stop-color="#36bcf7" stop-opacity="0"/><stop offset=".5" stop-color="#36bcf7"/><stop offset="1" stop-color="#36bcf7" stop-opacity="0"/></linearGradient>
+<style>
+.t{font:700 15px Consolas,'Courier New',monospace;fill:#36bcf7;letter-spacing:3px}
+.l{font:400 14px 'Segoe UI','Helvetica Neue',Arial,sans-serif;fill:#6f97a8}
+.v{font:700 22px 'Segoe UI','Helvetica Neue',Arial,sans-serif;fill:#c9eefe}
+.s{font:400 12px 'Segoe UI','Helvetica Neue',Arial,sans-serif;fill:#6f97a8}
+.f{opacity:0;animation:in .6s ease-out forwards}
+@keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+</style>
+
+<clipPath id="card"><rect width="500" height="260" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#card)">
+<rect width="500" height="260" fill="url(#bg)"/><rect width="500" height="260" fill="url(#grid)"/>
+<rect y="257" width="160" height="3" fill="url(#beam)"><animate attributeName="x" values="-160;500" dur="4s" repeatCount="indefinite"/></rect>
+<text x="28" y="38" class="t">⌁ GITHUB STATS</text>
+<g class="f" style="animation-delay:0.15s"><path transform="translate(28,57)" d="M9 1.5l2.3 4.7 5.2.8-3.8 3.7.9 5.2L9 13.4l-4.6 2.5.9-5.2L1.5 7l5.2-.8z" stroke="#36bcf7" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text x="58" y="71" class="l">Total Stars</text><text x="300" y="72" class="v" text-anchor="end" style="font-size:16px">115</text></g>
+<g class="f" style="animation-delay:0.27s"><path transform="translate(28,87)" d="M1 9h4.5M12.5 9H17M9 5.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7z" stroke="#36bcf7" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text x="58" y="101" class="l">Commits (1 tahun)</text><text x="300" y="102" class="v" text-anchor="end" style="font-size:16px">159</text></g>
+<g class="f" style="animation-delay:0.39s"><path transform="translate(28,117)" d="M4 2v14M4 2a2 2 0 1 1 0 0M14 16a2 2 0 1 1 0 0M14 14V7a3 3 0 0 0-3-3H8M10 2L8 4l2 2" stroke="#36bcf7" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text x="58" y="131" class="l">Pull Requests</text><text x="300" y="132" class="v" text-anchor="end" style="font-size:16px">21</text></g>
+<g class="f" style="animation-delay:0.51s"><path transform="translate(28,147)" d="M9 1.5a7.5 7.5 0 1 1 0 15 7.5 7.5 0 0 1 0-15zM9 5.5v4M9 12.5v.1" stroke="#36bcf7" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text x="58" y="161" class="l">Issues</text><text x="300" y="162" class="v" text-anchor="end" style="font-size:16px">4</text></g>
+<g class="f" style="animation-delay:0.63s"><path transform="translate(28,177)" d="M3 2.5A1.5 1.5 0 0 1 4.5 1H15v13H4.5A1.5 1.5 0 0 0 3 15.5zM3 15.5A1.5 1.5 0 0 0 4.5 17H15v-3" stroke="#36bcf7" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text x="58" y="191" class="l">Public Repos</text><text x="300" y="192" class="v" text-anchor="end" style="font-size:16px">20</text></g>
+<g class="f" style="animation-delay:0.75s"><path transform="translate(28,207)" d="M6.5 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM1 16c0-3 2.5-5 5.5-5s5.5 2 5.5 5M12 2.2a3 3 0 0 1 0 5.6M14 11.3c1.8.6 3 2.2 3 4.7" stroke="#36bcf7" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text x="58" y="221" class="l">Followers</text><text x="300" y="222" class="v" text-anchor="end" style="font-size:16px">27</text></g>
+<circle cx="400" cy="125" r="56" fill="none" stroke="#36bcf7" stroke-opacity=".12" stroke-width="9"/>
+<circle cx="400" cy="125" r="56" fill="none" stroke="#36bcf7" stroke-width="9" stroke-linecap="round"
+ stroke-dasharray="351.9" stroke-dashoffset="351.9" transform="rotate(-90 400 125)">
+ <animate attributeName="stroke-dashoffset" from="351.9" to="294.2" dur="1.6s" begin=".3s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/>
+</circle>
+<circle cx="400" cy="125" r="70" fill="none" stroke="#36bcf7" stroke-opacity=".25" stroke-dasharray="2 8">
+ <animateTransform attributeName="transform" type="rotate" from="0 400 125" to="360 400 125" dur="30s" repeatCount="indefinite"/>
+</circle>
+<g class="f" style="animation-delay:.6s"><text x="400" y="131" class="v" text-anchor="middle" style="font-size:26px">164</text>
+<text x="400" y="151" class="s" text-anchor="middle">kontribusi</text></g>
+<text x="400" y="213" class="s" text-anchor="middle">12 bulan terakhir</text>
+</g>
+<rect x=".5" y=".5" width="499" height="259" rx="16" fill="none" stroke="#36bcf7" stroke-opacity=".3"/>
+</svg>
